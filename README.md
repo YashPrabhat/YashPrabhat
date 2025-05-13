@@ -1,4 +1,6 @@
+![render1747139779029](https://github.com/user-attachments/assets/d8b8666e-c975-4227-80b1-1f5faf1a9895)
 # 👋 Hi, I'm Yash Prabhat
+
 - 🎓 B.Tech CSE Student | AI Club Lead @ SMVDU
 - 🤖 Focused on Deep Learning, Computer Vision, MLOps
 - 🔭 Working on NLP, LLMs, and Video Understanding
