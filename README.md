@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Yash Prabhat]
+# 👋 Hi, I'm Yash Prabhat
 - 🎓 B.Tech CSE Student | AI Club Lead @ SMVDU
 - 🤖 Focused on Deep Learning, Computer Vision, MLOps
 - 🔭 Working on NLP, LLMs, and Video Understanding
@@ -9,7 +9,7 @@
 Python | PyTorch | TensorFlow | FastAPI | Docker | Kubernetes | Git | GitHub Actions
 
 ## 📈 GitHub Stats
-[GitHub stats card and streaks with profile views badge]
+Loading.....
 
 ## 💬 Ask me about
 - MLOps Pipelines
@@ -17,4 +17,4 @@ Python | PyTorch | TensorFlow | FastAPI | Docker | Kubernetes | Git | GitHub Act
 - LLM Fine-tuning & RAG
 
 ## 📫 Connect with me
-[LinkedIn] [Email] [Portfolio Site]
+[LinkedIn](https://www.linkedin.com/in/yash-prabhat-31469a24b/) [Email](prabhatyash4@gmail.com) [Portfolio Site](prabhatyash4all.com)
