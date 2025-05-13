@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm [Yash Prabhat]
+- 🎓 B.Tech CSE Student | AI Club Lead @ SMVDU
+- 🤖 Focused on Deep Learning, Computer Vision, MLOps
+- 🔭 Working on NLP, LLMs, and Video Understanding
+- 📦 Docker, Kubernetes | FastAPI | PyTorch, Sklearn
+- 🧠 Always open to collaborations & freelance projects!
 
-<!--
-**YashPrabhat/YashPrabhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack
+Python | PyTorch | TensorFlow | FastAPI | Docker | Kubernetes | Git | GitHub Actions
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+[GitHub stats card and streaks with profile views badge]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+- MLOps Pipelines
+- Real-time Video ML Apps
+- LLM Fine-tuning & RAG
+
+## 📫 Connect with me
+[LinkedIn] [Email] [Portfolio Site]
